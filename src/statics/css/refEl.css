@@ -1,0 +1,23 @@
+.refEl{
+  width: 60%;margin:0 auto;
+  margin-bottom: 100px
+}
+.dialog-footer{
+  text-align: center;
+}
+.block {
+  float: right;
+}
+@media screen and (max-width: 415px) {
+  .refEl {
+    width: 95%;
+    margin: 0px auto;
+    margin-bottom: 80px
+
+  }
+}
+@media screen and (min-width: 415px)and(max-width: 1200px){
+  .refEl{
+    margin-bottom: 90px
+  }
+}

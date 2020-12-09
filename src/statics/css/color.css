@@ -1,0 +1,14 @@
+.el-table .warning-row {
+  background-color: rgba(230,162,60,0.4);
+}
+.el-table .primary-row {
+  background: rgba(64,158,255,0.4);
+}
+.el-table .error-row {
+  background: rgba(245,108,108,0.4);
+}
+
+.el-table .success-row {
+  background: rgba(103,194,58,0.4);
+
+}
